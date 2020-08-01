@@ -1,0 +1,10 @@
+git clone https://github.com/LeoniLeves/WEB001_AF.git
+cd web001_af
+touch nome.txt
+touch comandos.txt
+git add nome.txt
+git add comandos.txt
+git status
+git commit -m "Arquivos nome e comandos"
+git push
+git pull
